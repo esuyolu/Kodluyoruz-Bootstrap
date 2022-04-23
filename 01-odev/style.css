@@ -1,0 +1,11 @@
+* {
+  background-color: #E9ECEF;
+}
+
+.center {
+    text-align: center;
+  }
+
+.center-list {
+    list-style-position: inside
+}
